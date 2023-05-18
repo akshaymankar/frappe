@@ -22,7 +22,7 @@ dependencies = [
     "PyQRCode~=1.2.1",
     "PyYAML~=6.0",
     "RestrictedPython~=6.0",
-    "WeasyPrint==52.5",
+    "WeasyPrint>=52.5",
     "Werkzeug~=2.2.2",
     "Whoosh~=2.7.4",
     "beautifulsoup4>=4.9.3",
